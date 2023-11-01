@@ -6,5 +6,5 @@ git clone https://github.com/Soumik956/Paid
 
 cd Paid
 
-python Free.py
+python FREE.py
 
